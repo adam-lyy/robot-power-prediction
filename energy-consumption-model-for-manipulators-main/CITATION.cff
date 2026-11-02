@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "Energy Consumption Model for Manipulators"
+authors:
+  - family-names: Heredia
+    given-names: Juan
+    email: jehm@mmmi.sdu.dk
+    affiliation: "University of Southern Denmark"
+  - family-names: Schlette
+    given-names: Christian
+    email: chsch@mmmi.sdu.dk
+    affiliation: "University of Southern Denmark"
+  - family-names: "Kjærgaard"
+    given-names: "Mikkel Baun"
+    email: mbkj@mmmi.sdu.dk
+    affiliation: "University of Southern Denmark"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Data-Driven Energy Estimation of Individual Instructions in User-Defined Robot Programs for Collaborative Robots"
+  authors:
+    - family-names: Heredia
+      given-names: Juan
+    - family-names: Schlette
+      given-names: Christian
+    - family-names: "Kjærgaard"
+      given-names: "Mikkel Baun"
+  journal: "IEEE Robotics and Automation Letters"
+  year: 2021
+  volume: 6
+  issue: 4
+  start: 6836
+  end: 6843
+  doi: "10.1109/LRA.2021.3094781"
